@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Assistant IA{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <h1>Assistant IA</h1>
+    <p class="lead">Posez une question sur le programme. L'assistant recherche d'abord les passages pertinents du document officiel, puis répond en citant ses sources. S'il ne trouve rien, il le dit.</p>
+    <p><span class="pill" id="mode-pill">Mode : …</span></p>
+    <p class="small muted" id="mode-notice"></p>
+  </div>
+</section>
+<section class="section">
+  <div class="container narrow">
+    <div class="chat" id="chat" aria-live="polite">
+      <div class="msg msg-bot">
+        <p>Bonjour ! Je réponds uniquement à partir du programme officiel. Je ne donne pas de conseil de vote.</p>
+      </div>
+    </div>
+    <div class="chips">
+      {% for ex in ["Que propose Volt concernant l'intelligence artificielle ?", "Quelles sont les propositions sur l'environnement ?", "Que prévoit le programme concernant les transports ?", "Quelles sont les mesures proposées pour l'éducation ?"] %}
+      <button type="button" class="chip" data-question="{{ ex }}">{{ ex }}</button>
+      {% endfor %}
+    </div>
+    <form id="chat-form" class="chat-form">
+      <label class="sr-only" for="chat-input">Votre question</label>
+      <input id="chat-input" type="text" maxlength="500" placeholder="Votre question sur le programme…" autocomplete="off" required>
+      <button class="btn btn-primary" type="submit" id="chat-send">Envoyer</button>
+    </form>
+    <p class="small muted">Les réponses sont informatives. Vérifiez toujours dans la source officielle.</p>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/assistant.js') }}"></script>{% endblock %}

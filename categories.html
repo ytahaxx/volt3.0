@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Thématiques{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <h1>Thématiques</h1>
+    <p class="lead">Choisissez une thématique pour afficher les propositions correspondantes. Ces catégories sont un classement éditorial de l'application, construit à partir des sections du document officiel.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="grid cards">
+      {% for c in categories %}
+      <a class="card card-link" href="{{ url_for('main.category', slug=c.slug) }}">
+        <span class="icon" aria-hidden="true">{{ c.icon }}</span>
+        <h3>{{ c.label }}</h3>
+        <p>{{ c.description }}</p>
+        <span class="card-meta">{{ c.count }} proposition{{ 's' if c.count > 1 else '' }} →</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}

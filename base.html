@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Volt Explorer{% endblock %} · Volt Explorer</title>
+  <meta name="description" content="Volt Explorer : comprendre le programme, explorer les idées. Application pédagogique et indépendante.">
+  <meta name="theme-color" content="#5b21b6">
+  <link rel="manifest" href="{{ url_for('static', filename='manifest.webmanifest') }}">
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/icon-192.png') }}">
+  <link rel="apple-touch-icon" href="{{ url_for('static', filename='images/icon-192.png') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <a class="skip" href="#contenu">Aller au contenu</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="{{ url_for('main.index') }}" aria-label="Volt Explorer, accueil">
+        <span class="brand-mark" aria-hidden="true">⚡</span>
+        <span>Volt <strong>Explorer</strong></span>
+      </a>
+      <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Ouvrir le menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="main-nav" class="main-nav" aria-label="Navigation principale">
+        {% set nav = [
+          ('main.index', 'Accueil'),
+          ('main.programme', 'Programme'),
+          ('main.categories', 'Thématiques'),
+          ('main.explorer', 'Explorer'),
+          ('main.quiz', 'Quiz'),
+          ('main.assistant', 'Assistant IA'),
+          ('main.about', 'À propos'),
+        ] %}
+        {% for endpoint, label in nav %}
+          <a href="{{ url_for(endpoint) }}" class="{{ 'active' if request.endpoint == endpoint else '' }}">{{ label }}</a>
+        {% endfor %}
+        <a href="{{ url_for('main.favoris') }}" class="nav-fav {{ 'active' if request.endpoint == 'main.favoris' else '' }}">
+          ♥ Favoris <span class="badge" id="fav-count" hidden>0</span>
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contenu">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="brand brand-footer"><span class="brand-mark" aria-hidden="true">⚡</span> Volt <strong>Explorer</strong></div>
+        <p class="muted">Comprendre le programme, explorer les idées.</p>
+        <p class="small muted">Projet indépendant à visée pédagogique. Il n'est pas un site officiel de Volt et ne cherche pas à influencer le vote.</p>
+      </div>
+      <div>
+        <h3>Navigation</h3>
+        <ul class="plain">
+          <li><a href="{{ url_for('main.programme') }}">Programme</a></li>
+          <li><a href="{{ url_for('main.categories') }}">Thématiques</a></li>
+          <li><a href="{{ url_for('main.explorer') }}">Explorer</a></li>
+          <li><a href="{{ url_for('main.quiz') }}">Quiz</a></li>
+          <li><a href="{{ url_for('main.assistant') }}">Assistant IA</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Sources officielles</h3>
+        <ul class="plain">
+          <li><a href="https://voltfrance.org/" target="_blank" rel="noopener">voltfrance.org</a></li>
+          <li><a href="https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf" target="_blank" rel="noopener">Programme électoral européen (PDF)</a></li>
+          <li><a href="{{ url_for('main.about') }}">Méthode et limites</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

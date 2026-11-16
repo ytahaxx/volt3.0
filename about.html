@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}À propos{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <h1>À propos</h1>
+    <p class="lead">Volt Explorer est un prototype pédagogique et indépendant : il aide à lire et explorer un programme, il ne cherche pas à convaincre.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container narrow">
+    <div class="block">
+      <h2>Source utilisée</h2>
+      <p>Toutes les propositions viennent d'un seul document : le <a href="https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf" target="_blank" rel="noopener">programme électoral des élections européennes</a> (« L'avenir : Made in Europe »), publié en français sur voltfrance.org.</p>
+    </div>
+    <div class="block">
+      <h2>Limites à connaître</h2>
+      <ul>
+        <li>Il s'agit du programme pour les <strong>élections européennes</strong> (programme de Volt Europa), pas d'un programme national complet pour la France.</li>
+        <li>Certaines thématiques ne figurent pas dans ce document (par exemple la santé au-delà de la santé mentale des jeunes, ou la justice et la sécurité intérieure). L'application ne les complète pas.</li>
+        <li>Les numéros de page ne sont pas affichés : ils n'ont pas été vérifiés. La référence indique la partie et la section du document.</li>
+        <li>Les catégories sont un classement éditorial de l'application, pas celui du document.</li>
+      </ul>
+    </div>
+    <div class="block">
+      <h2>Comment lire une fiche</h2>
+      <p><span class="pill pill-official">Reformulation / Programme officiel</span> : contenu tiré du document, reformulé fidèlement.</p>
+      <p><span class="pill pill-extra">Non officielle</span> : explication complémentaire écrite par l'application, qui n'est pas une position de Volt.</p>
+    </div>
+    <div class="block">
+      <h2>Assistant IA</h2>
+      <p>L'assistant utilise une architecture RAG : recherche des passages pertinents, puis génération d'une réponse fondée sur ces passages, avec leurs références. En mode démonstration, aucun service externe n'est utilisé. Il ne donne ni recommandation de vote ni message de persuasion.</p>
+    </div>
+    <div class="block">
+      <h2>Données personnelles</h2>
+      <p>Aucun compte n'est requis. Les favoris sont stockés uniquement dans votre navigateur (localStorage).</p>
+    </div>
+  </div>
+</section>
+{% endblock %}

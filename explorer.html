@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}Explorer{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <h1>Explorer le programme</h1>
+    <p class="lead">Cherchez par mot-clé, puis affinez avec les filtres. Les résultats s'affichent instantanément.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <form class="search-panel" id="search-form" role="search" onsubmit="return false">
+      <label class="sr-only" for="q">Rechercher dans le programme</label>
+      <input id="q" type="search" placeholder="Ex. : intelligence artificielle, environnement, éducation, transports…" autocomplete="off">
+      <div class="chips" aria-label="Exemples de recherche">
+        {% for ex in ['Intelligence artificielle', 'Environnement', 'Éducation', 'Transports', 'Europe'] %}
+        <button type="button" class="chip" data-example="{{ ex }}">{{ ex }}</button>
+        {% endfor %}
+      </div>
+      <div class="filters">
+        <label>Thématique
+          <select id="f-category"><option value="">Toutes</option></select>
+        </label>
+        <label>Sous-thématique
+          <select id="f-subcategory"><option value="">Toutes</option></select>
+        </label>
+        <label>Type de proposition
+          <select id="f-type"><option value="">Tous</option></select>
+        </label>
+        <label>Tri
+          <select id="f-sort">
+            <option value="">Pertinence / ordre du document</option>
+            <option value="alpha">Alphabétique (A → Z)</option>
+            <option value="alpha_desc">Alphabétique (Z → A)</option>
+          </select>
+        </label>
+        <button type="button" class="btn btn-light btn-sm" id="reset-filters">Réinitialiser</button>
+      </div>
+    </form>
+
+    <p id="result-count" class="muted" aria-live="polite"></p>
+    <div id="results" class="grid cards"></div>
+    <div id="empty" class="notice" hidden>
+      <strong>Aucun résultat.</strong> Aucune proposition du programme ne correspond à cette recherche. Essayez un autre mot-clé ou réinitialisez les filtres.
+    </div>
+    <div id="error" class="notice notice-error" hidden>La recherche est momentanément indisponible. Réessayez dans un instant.</div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/search.js') }}"></script>{% endblock %}

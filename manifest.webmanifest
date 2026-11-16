@@ -1,0 +1,21 @@
+{
+  "name": "Volt Explorer",
+  "short_name": "Volt Explorer",
+  "description": "Comprendre le programme, explorer les idées.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5b21b6",
+  "icons": [
+    {"src": "/static/images/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/static/images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/static/images/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Explorer", "url": "/explorer"},
+    {"name": "Quiz", "url": "/quiz"},
+    {"name": "Assistant IA", "url": "/assistant"}
+  ]
+}

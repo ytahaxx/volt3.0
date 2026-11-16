@@ -1,0 +1,16 @@
+
+[project]
+name = "volt-explorer"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "Flask>=3.1",
+    "scikit-learn>=1.5",
+    "numpy>=2.0",
+    "python-dotenv>=1.0",
+    "requests>=2.31",
+    "pypdf>=5.0",
+]
+
+[tool.vercel]
+entrypoint = "app:app"

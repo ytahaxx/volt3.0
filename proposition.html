@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %}{{ p.title }}{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <p class="crumbs"><a href="{{ url_for('main.categories') }}">Thématiques</a> ›
+      <a href="{{ url_for('main.category', slug=category.slug) }}">{{ category.label }}</a></p>
+    <h1>{{ p.title }}</h1>
+    <p>
+      <span class="tag">{{ category.label }}</span>
+      <span class="tag tag-soft">{{ p.subcategory }}</span>
+      <span class="tag tag-soft">{{ p.type }}</span>
+    </p>
+    <button class="btn btn-light fav-btn-lg" data-fav-id="{{ p.id }}" aria-pressed="false">♥ <span class="fav-label">Ajouter aux favoris</span></button>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container prose-grid">
+    <div>
+      <div class="block block-official">
+        <h2>Résumé <span class="pill pill-official">Reformulation du programme</span></h2>
+        <p>{{ p.summary }}</p>
+      </div>
+
+      <div class="block block-official">
+        <h2>Objectif annoncé <span class="pill pill-official">Programme officiel</span></h2>
+        <ul>{% for o in p.objectives %}<li>{{ o }}</li>{% endfor %}</ul>
+      </div>
+
+      <div class="block block-official">
+        <h2>Mesures concrètes <span class="pill pill-official">Programme officiel</span></h2>
+        <ul>{% for m in p.measures %}<li>{{ m }}</li>{% endfor %}</ul>
+      </div>
+
+      <div class="block block-extra">
+        <h2>Explication complémentaire <span class="pill pill-extra">Non officielle</span></h2>
+        <p>{{ p.details }}</p>
+        <p class="small muted">Cette explication est rédigée par l'application pour faciliter la lecture. Elle ne constitue pas une position de Volt.</p>
+      </div>
+    </div>
+
+    <aside>
+      <div class="block">
+        <h2>Source</h2>
+        <p class="small"><strong>Document :</strong> {{ p.source_document }}</p>
+        <p class="small"><strong>Référence :</strong> {{ p.section_ref }}</p>
+        <p class="small"><strong>Page :</strong> {{ p.page if p.page else 'non vérifiée — voir le PDF' }}</p>
+        <p><a class="btn btn-primary btn-sm" href="{{ p.source_url }}" target="_blank" rel="noopener">Consulter la source officielle</a></p>
+      </div>
+      <div class="block">
+        <h2>Dans la même thématique</h2>
+        <p><a href="{{ url_for('main.category', slug=category.slug) }}">Toutes les propositions « {{ category.label }} » →</a></p>
+      </div>
+    </aside>
+  </div>
+</section>
+{% endblock %}

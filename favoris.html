@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Favoris{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <h1>Mes favoris</h1>
+    <p class="lead">Vos propositions sauvegardées. Elles sont conservées dans ce navigateur (aucun compte, aucune donnée envoyée à un serveur).</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div id="favorites-list" class="grid cards"></div>
+    <div id="favorites-empty" class="notice" hidden>
+      Vous n'avez pas encore de favori. Cliquez sur ♥ sur une proposition pour la retrouver ici.
+      <p><a class="btn btn-primary btn-sm" href="{{ url_for('main.explorer') }}">Explorer les propositions</a></p>
+    </div>
+    <div id="favorites-error" class="notice notice-error" hidden>Impossible de charger les favoris pour le moment.</div>
+    <p><button class="btn btn-light btn-sm" id="clear-favorites" hidden>Tout retirer</button></p>
+  </div>
+</section>
+{% endblock %}

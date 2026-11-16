@@ -1,0 +1,1559 @@
+{
+  "meta": {
+    "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+    "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+    "note": "Chaque proposition est une reformulation d'une mesure du document. Les champs « details » sont des explications complémentaires non officielles. Les numéros de page n'ont pas été vérifiés."
+  },
+  "categories": [
+    {
+      "slug": "democratie",
+      "label": "Démocratie et institutions",
+      "icon": "🏛️",
+      "description": "Réformes institutionnelles, transparence, État de droit et participation citoyenne."
+    },
+    {
+      "slug": "economie",
+      "label": "Économie et fiscalité",
+      "icon": "💶",
+      "description": "Union économique, budget européen, règles budgétaires et fiscalité des entreprises."
+    },
+    {
+      "slug": "international",
+      "label": "Défense et relations internationales",
+      "icon": "🌍",
+      "description": "Défense commune, diplomatie, commerce, aide au développement et élargissement."
+    },
+    {
+      "slug": "climat",
+      "label": "Climat, environnement et agriculture",
+      "icon": "🌱",
+      "description": "Neutralité climatique, biodiversité, bien-être animal et pratiques agricoles."
+    },
+    {
+      "slug": "energie",
+      "label": "Énergie et transports",
+      "icon": "⚡",
+      "description": "Réseau électrique, énergies fossiles, charbon et trains à grande vitesse."
+    },
+    {
+      "slug": "numerique",
+      "label": "Numérique et intelligence artificielle",
+      "icon": "💻",
+      "description": "Services publics numériques, identité numérique, droits numériques et IA."
+    },
+    {
+      "slug": "innovation",
+      "label": "Innovation et compétitivité",
+      "icon": "🚀",
+      "description": "Recherche, financement des start-ups et aides d'État stratégiques."
+    },
+    {
+      "slug": "travail",
+      "label": "Travail et mobilité des talents",
+      "icon": "🧳",
+      "description": "Télétravail, reconnaissance des qualifications, migration de travail."
+    },
+    {
+      "slug": "asile",
+      "label": "Asile et accueil",
+      "icon": "🤝",
+      "description": "Corridors humanitaires, relocalisation, délais de traitement et intégration locale."
+    },
+    {
+      "slug": "education",
+      "label": "Éducation et jeunesse",
+      "icon": "🎓",
+      "description": "Erasmus+, garde d'enfants, formation tout au long de la vie et santé mentale."
+    },
+    {
+      "slug": "droits",
+      "label": "Droits et lutte contre les discriminations",
+      "icon": "⚖️",
+      "description": "Égalité, droits reproductifs, mariage, genre et handicap."
+    },
+    {
+      "slug": "social",
+      "label": "Niveau de vie et services publics",
+      "icon": "🏠",
+      "description": "Revenu de base et logement social."
+    }
+  ],
+  "propositions": [
+    {
+      "id": 1,
+      "title": "Une Europe fédérale avec un gouvernement européen",
+      "category": "democratie",
+      "category_label": "Démocratie et institutions",
+      "subcategory": "Fédéralisme",
+      "type": "Réforme institutionnelle",
+      "summary": "Volt propose d'établir une Europe fédérale dotée de partis européens et d'un gouvernement européen dirigé par une Première ministre ou un Premier ministre européen.",
+      "details": "Il s'agit d'une réforme de la structure politique de l'Union : le pouvoir exécutif européen serait incarné par un gouvernement et un chef de gouvernement.",
+      "objectives": [
+        "Rendre l'Union européenne plus démocratique et donner davantage de pouvoir aux citoyennes et citoyens."
+      ],
+      "measures": [
+        "Partis européens",
+        "Gouvernement européen",
+        "Première ministre / Premier ministre européen"
+      ],
+      "keywords": [
+        "fédéral",
+        "fédéralisme",
+        "gouvernement",
+        "parti européen"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Rendre l'UE plus démocratique et donner plus de pouvoir aux citoyens",
+      "position": 1,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Rendre l'UE plus démocratique et donner plus de pouvoir aux citoyens » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 2,
+      "title": "Un Sénat européen et le droit d'initiative du Parlement",
+      "category": "democratie",
+      "category_label": "Démocratie et institutions",
+      "subcategory": "Fédéralisme",
+      "type": "Réforme institutionnelle",
+      "summary": "Le Conseil de l'Union européenne deviendrait un Sénat européen, le droit de veto individuel des États membres serait aboli et le Parlement pourrait proposer lui-même des lois.",
+      "details": "Aujourd'hui, la proposition de textes législatifs relève principalement de la Commission européenne ; la mesure modifierait cet équilibre.",
+      "objectives": [
+        "Rendre l'Union européenne plus démocratique et donner davantage de pouvoir aux citoyennes et citoyens."
+      ],
+      "measures": [
+        "Transformer le Conseil de l'UE en Sénat européen",
+        "Abolir le veto individuel des États membres",
+        "Droit d'initiative législative du Parlement"
+      ],
+      "keywords": [
+        "conseil",
+        "veto",
+        "sénat",
+        "parlement",
+        "loi"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Rendre l'UE plus démocratique et donner plus de pouvoir aux citoyens",
+      "position": 2,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Rendre l'UE plus démocratique et donner plus de pouvoir aux citoyens » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 3,
+      "title": "Vote à 16 ans et pétitions législatives",
+      "category": "democratie",
+      "category_label": "Démocratie et institutions",
+      "subcategory": "Participation citoyenne",
+      "type": "Droit et législation",
+      "summary": "Le programme propose d'abaisser l'âge du droit de vote à 16 ans et de permettre aux citoyennes et citoyens de proposer des lois par des pétitions.",
+      "details": "La mesure combine un élargissement du corps électoral et un outil d'initiative citoyenne.",
+      "objectives": [
+        "Rendre l'Union européenne plus démocratique et donner davantage de pouvoir aux citoyennes et citoyens."
+      ],
+      "measures": [
+        "Droit de vote à 16 ans",
+        "Propositions de lois par pétition citoyenne"
+      ],
+      "keywords": [
+        "vote",
+        "16 ans",
+        "pétition",
+        "citoyens",
+        "jeunes"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Rendre l'UE plus démocratique et donner plus de pouvoir aux citoyens",
+      "position": 3,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Rendre l'UE plus démocratique et donner plus de pouvoir aux citoyens » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 4,
+      "title": "Une Cour constitutionnelle et une Constitution européennes",
+      "category": "democratie",
+      "category_label": "Démocratie et institutions",
+      "subcategory": "État de droit",
+      "type": "Création d'une institution",
+      "summary": "Volt veut établir une Cour constitutionnelle européenne, fondée sur une nouvelle Constitution européenne, capable de révoquer des lois nationales.",
+      "details": "La mesure suppose l'adoption d'une Constitution européenne, dont le contenu n'est pas détaillé dans le document étudié.",
+      "objectives": [
+        "Renforcer la transparence des institutions et lutter contre la corruption et les dérives autocratiques."
+      ],
+      "measures": [
+        "Cour constitutionnelle européenne",
+        "Nouvelle Constitution européenne"
+      ],
+      "keywords": [
+        "constitution",
+        "cour",
+        "justice",
+        "lois nationales"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Accroître la transparence et lutter contre la corruption et les tendances autocratiques",
+      "position": 1,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Accroître la transparence et lutter contre la corruption et les tendances autocratiques » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 5,
+      "title": "Sanctions contre les gouvernements qui sapent l'État de droit",
+      "category": "democratie",
+      "category_label": "Démocratie et institutions",
+      "subcategory": "État de droit",
+      "type": "Droit et législation",
+      "summary": "Les gouvernements qui sapent la démocratie, la liberté de la presse, les droits fondamentaux ou l'indépendance de la justice verraient leurs fonds européens et leurs droits de vote coupés ; l'UE pourrait financer directement municipalités et régions à la place.",
+      "details": "Le programme associe sanction et maintien du soutien aux collectivités locales.",
+      "objectives": [
+        "Renforcer la transparence des institutions et lutter contre la corruption et les dérives autocratiques."
+      ],
+      "measures": [
+        "Suspension des fonds européens",
+        "Suspension des droits de vote",
+        "Financement direct des municipalités et des régions"
+      ],
+      "keywords": [
+        "état de droit",
+        "presse",
+        "fonds européens",
+        "démocratie",
+        "justice"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Accroître la transparence et lutter contre la corruption et les tendances autocratiques",
+      "position": 2,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Accroître la transparence et lutter contre la corruption et les tendances autocratiques » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 6,
+      "title": "Protection des journalistes et transparence du lobbying",
+      "category": "democratie",
+      "category_label": "Démocratie et institutions",
+      "subcategory": "Transparence",
+      "type": "Droit et législation",
+      "summary": "Le programme prévoit d'appliquer des normes européennes protégeant les journalistes et d'obliger les lobbyistes à déclarer tous leurs rendez-vous sur une plateforme unique.",
+      "details": "Objectif : permettre de demander des comptes aux responsables politiques.",
+      "objectives": [
+        "Renforcer la transparence des institutions et lutter contre la corruption et les dérives autocratiques."
+      ],
+      "measures": [
+        "Normes de protection des journalistes",
+        "Plateforme unique de déclaration des rendez-vous des lobbyistes"
+      ],
+      "keywords": [
+        "journalistes",
+        "lobbyistes",
+        "transparence",
+        "corruption",
+        "presse"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Accroître la transparence et lutter contre la corruption et les tendances autocratiques",
+      "position": 3,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Accroître la transparence et lutter contre la corruption et les tendances autocratiques » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 7,
+      "title": "Zone euro achevée et ministre européen des finances",
+      "category": "economie",
+      "category_label": "Économie et fiscalité",
+      "subcategory": "Union économique",
+      "type": "Réforme institutionnelle",
+      "summary": "Volt propose de parachever la zone euro et l'union bancaire européenne et de nommer une ou un ministre européen des finances, chargé de proposer chaque année un budget européen.",
+      "details": "La mesure vise à compléter l'architecture économique et monétaire de l'Union.",
+      "objectives": [
+        "Préserver l'économie européenne grâce à une architecture fiscale et budgétaire renouvelée."
+      ],
+      "measures": [
+        "Achèvement de la zone euro",
+        "Union bancaire européenne",
+        "Ministre européen des finances",
+        "Budget européen annuel"
+      ],
+      "keywords": [
+        "euro",
+        "banque",
+        "budget",
+        "finances"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Préserver l'économie européenne grâce à une nouvelle architecture fiscale",
+      "position": 1,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Préserver l'économie européenne grâce à une nouvelle architecture fiscale » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 8,
+      "title": "Règles de déficit et outils contre les chocs économiques",
+      "category": "economie",
+      "category_label": "Économie et fiscalité",
+      "subcategory": "Stabilité économique",
+      "type": "Mesure fiscale et budgétaire",
+      "summary": "L'UE disposerait de règles claires en matière de déficit, d'exigences de réforme et d'outils d'investissement afin de contrer les chocs économiques et d'assurer la stabilité.",
+      "details": "Le programme met en avant à la fois des règles budgétaires et des instruments d'investissement.",
+      "objectives": [
+        "Préserver l'économie européenne grâce à une architecture fiscale et budgétaire renouvelée."
+      ],
+      "measures": [
+        "Règles claires sur le déficit",
+        "Exigences de réforme",
+        "Outils d'investissement anti-chocs"
+      ],
+      "keywords": [
+        "déficit",
+        "stabilité",
+        "investissement",
+        "chocs"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Préserver l'économie européenne grâce à une nouvelle architecture fiscale",
+      "position": 2,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Préserver l'économie européenne grâce à une nouvelle architecture fiscale » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 9,
+      "title": "Taux minimum d'imposition des sociétés de 22 %",
+      "category": "economie",
+      "category_label": "Économie et fiscalité",
+      "subcategory": "Fiscalité des entreprises",
+      "type": "Objectif chiffré",
+      "summary": "Le programme prévoit un taux minimum d'imposition sur les sociétés de 22 % dans toute l'Europe, avec une imposition des bénéfices là où ils sont réalisés.",
+      "details": "Le chiffre de 22 % est celui qui figure explicitement dans le programme.",
+      "objectives": [
+        "Préserver l'économie européenne grâce à une architecture fiscale et budgétaire renouvelée."
+      ],
+      "measures": [
+        "Taux minimum de 22 % sur les sociétés",
+        "Imposition des bénéfices au lieu de réalisation"
+      ],
+      "keywords": [
+        "impôt",
+        "fiscalité",
+        "sociétés",
+        "22 %",
+        "entreprises"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Préserver l'économie européenne grâce à une nouvelle architecture fiscale",
+      "position": 3,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Préserver l'économie européenne grâce à une nouvelle architecture fiscale » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 10,
+      "title": "Des forces armées européennes sous contrôle du Parlement",
+      "category": "international",
+      "category_label": "Défense et relations internationales",
+      "subcategory": "Défense",
+      "type": "Création d'une institution",
+      "summary": "Volt veut mettre en place des forces armées européennes placées sous le contrôle du Parlement européen et acheter les armements en commun au niveau européen.",
+      "details": "La mesure concerne l'autonomie de l'Europe en matière de sécurité.",
+      "objectives": [
+        "Doter l'Europe d'une voix forte à l'international et d'une autonomie en matière de sécurité."
+      ],
+      "measures": [
+        "Forces armées européennes",
+        "Contrôle par le Parlement",
+        "Achats d'armement communs"
+      ],
+      "keywords": [
+        "défense",
+        "armée",
+        "sécurité",
+        "armement"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Donner à l'Europe une voix puissante sur la scène internationale et la rendre autonome pour sa sécurité",
+      "position": 1,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Donner à l'Europe une voix puissante sur la scène internationale et la rendre autonome pour sa sécurité » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 11,
+      "title": "Un ministre européen des affaires étrangères",
+      "category": "international",
+      "category_label": "Défense et relations internationales",
+      "subcategory": "Diplomatie",
+      "type": "Création d'une institution",
+      "summary": "Le programme propose de nommer une ou un ministre européen des affaires étrangères pour porter une politique étrangère unie et fondée sur des valeurs, et de travailler à un consensus mondial sur le climat, l'intelligence artificielle et la cybersécurité.",
+      "details": "L'intelligence artificielle est citée ici comme thème de coopération internationale.",
+      "objectives": [
+        "Doter l'Europe d'une voix forte à l'international et d'une autonomie en matière de sécurité."
+      ],
+      "measures": [
+        "Ministre européen des affaires étrangères",
+        "Consensus mondial sur le climat, l'IA et la cybersécurité"
+      ],
+      "keywords": [
+        "diplomatie",
+        "affaires étrangères",
+        "intelligence artificielle",
+        "cybersécurité",
+        "climat"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Donner à l'Europe une voix puissante sur la scène internationale et la rendre autonome pour sa sécurité",
+      "position": 2,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Donner à l'Europe une voix puissante sur la scène internationale et la rendre autonome pour sa sécurité » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 12,
+      "title": "Contrôle des investissements étrangers et renseignement commun",
+      "category": "international",
+      "category_label": "Défense et relations internationales",
+      "subcategory": "Sécurité économique",
+      "type": "Politique sectorielle",
+      "summary": "Volt veut un système européen d'examen des investissements directs étrangers pour contrôler les investissements d'autres puissances dans les infrastructures critiques et stratégiques, ainsi que des services de renseignement conjoints.",
+      "details": "Le contrôle porte sur les infrastructures jugées critiques ou stratégiques.",
+      "objectives": [
+        "Doter l'Europe d'une voix forte à l'international et d'une autonomie en matière de sécurité."
+      ],
+      "measures": [
+        "Examen européen des investissements directs étrangers",
+        "Services de renseignement conjoints"
+      ],
+      "keywords": [
+        "investissements étrangers",
+        "renseignement",
+        "infrastructures critiques",
+        "IDE"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Donner à l'Europe une voix puissante sur la scène internationale et la rendre autonome pour sa sécurité",
+      "position": 3,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Donner à l'Europe une voix puissante sur la scène internationale et la rendre autonome pour sa sécurité » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 13,
+      "title": "Accords commerciaux fondés sur la durabilité et les droits humains",
+      "category": "international",
+      "category_label": "Défense et relations internationales",
+      "subcategory": "Commerce",
+      "type": "Politique sectorielle",
+      "summary": "Le programme promeut des accords commerciaux fondés sur la durabilité et les droits humains, afin de diversifier les dépendances commerciales de l'Europe.",
+      "details": "L'objectif affiché est de réduire la concentration des dépendances commerciales.",
+      "objectives": [
+        "Promouvoir la paix et les droits humains par l'aide au développement, le commerce et l'élargissement."
+      ],
+      "measures": [
+        "Accords commerciaux durables et respectueux des droits humains"
+      ],
+      "keywords": [
+        "commerce",
+        "accords commerciaux",
+        "droits humains",
+        "durabilité"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Promouvoir la paix et les droits de l'homme grâce à l'aide au développement, au commerce et à l'élargissement de l'Union",
+      "position": 1,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Promouvoir la paix et les droits de l'homme grâce à l'aide au développement, au commerce et à l'élargissement de l'Union » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 14,
+      "title": "Plus de 100 milliards d'euros d'aide au développement",
+      "category": "international",
+      "category_label": "Défense et relations internationales",
+      "subcategory": "Aide au développement",
+      "type": "Investissement et financement",
+      "summary": "Volt propose de contribuer à hauteur de plus de 100 milliards d'euros à l'aide officielle au développement et de coordonner son financement via une Agence européenne de développement.",
+      "details": "Le document indique « plus de 100 milliards d'euros » sans préciser la période dans le passage étudié.",
+      "objectives": [
+        "Promouvoir la paix et les droits humains par l'aide au développement, le commerce et l'élargissement."
+      ],
+      "measures": [
+        "Plus de 100 milliards d'euros d'aide publique au développement",
+        "Agence européenne de développement"
+      ],
+      "keywords": [
+        "aide au développement",
+        "100 milliards",
+        "agence",
+        "développement"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Promouvoir la paix et les droits de l'homme grâce à l'aide au développement, au commerce et à l'élargissement de l'Union",
+      "position": 2,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Promouvoir la paix et les droits de l'homme grâce à l'aide au développement, au commerce et à l'élargissement de l'Union » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 15,
+      "title": "Soutien à l'Ukraine et adhésion graduelle à l'UE",
+      "category": "international",
+      "category_label": "Défense et relations internationales",
+      "subcategory": "Élargissement",
+      "type": "Politique sectorielle",
+      "summary": "Le programme prévoit de soutenir l'Ukraine militairement et financièrement jusqu'à ce qu'elle retrouve son intégrité territoriale, et d'introduire un système graduel d'adhésion à l'UE pour les pays candidats, plus juste, plus transparent et plus efficace.",
+      "details": "Deux mesures sont réunies dans une même puce du programme : soutien à l'Ukraine et réforme du processus d'adhésion.",
+      "objectives": [
+        "Promouvoir la paix et les droits humains par l'aide au développement, le commerce et l'élargissement."
+      ],
+      "measures": [
+        "Soutien militaire et financier à l'Ukraine",
+        "Système d'adhésion graduel"
+      ],
+      "keywords": [
+        "ukraine",
+        "adhésion",
+        "élargissement",
+        "guerre"
+      ],
+      "part": "Pour une meilleure UE",
+      "section": "Promouvoir la paix et les droits de l'homme grâce à l'aide au développement, au commerce et à l'élargissement de l'Union",
+      "position": 3,
+      "section_ref": "Partie « Pour une meilleure UE » › section « Promouvoir la paix et les droits de l'homme grâce à l'aide au développement, au commerce et à l'élargissement de l'Union » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 16,
+      "title": "Neutralité climatique en 2040, secteur énergétique en 2035",
+      "category": "climat",
+      "category_label": "Climat, environnement et agriculture",
+      "subcategory": "Neutralité climatique",
+      "type": "Objectif chiffré",
+      "summary": "Volt s'engage à atteindre une économie climatiquement neutre d'ici 2040 et la neutralité climatique du secteur énergétique d'ici 2035.",
+      "details": "Deux échéances distinctes figurent dans le programme : 2040 pour l'économie, 2035 pour l'énergie.",
+      "objectives": [
+        "Atteindre la neutralité climatique aussi vite et aussi équitablement que possible."
+      ],
+      "measures": [
+        "Économie neutre d'ici 2040",
+        "Secteur énergétique neutre d'ici 2035"
+      ],
+      "keywords": [
+        "climat",
+        "neutralité",
+        "2040",
+        "2035",
+        "environnement"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Atteindre la neutralité climatique le plus rapidement et le plus équitablement possible",
+      "position": 1,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Atteindre la neutralité climatique le plus rapidement et le plus équitablement possible » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 17,
+      "title": "Fin des subventions fossiles et taxe carbone européenne",
+      "category": "climat",
+      "category_label": "Climat, environnement et agriculture",
+      "subcategory": "Fiscalité écologique",
+      "type": "Mesure fiscale et budgétaire",
+      "summary": "Le programme prévoit de mettre fin aux subventions aux combustibles fossiles et d'instaurer une taxe carbone à l'échelle de l'UE, dont les recettes aideraient les personnes les plus touchées par la transition énergétique.",
+      "details": "Les recettes de la taxe sont fléchées vers l'accompagnement des personnes les plus affectées.",
+      "objectives": [
+        "Atteindre la neutralité climatique aussi vite et aussi équitablement que possible."
+      ],
+      "measures": [
+        "Fin des subventions aux énergies fossiles",
+        "Taxe carbone européenne",
+        "Aide aux personnes les plus touchées"
+      ],
+      "keywords": [
+        "taxe carbone",
+        "fossiles",
+        "subventions",
+        "transition",
+        "environnement"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Atteindre la neutralité climatique le plus rapidement et le plus équitablement possible",
+      "position": 2,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Atteindre la neutralité climatique le plus rapidement et le plus équitablement possible » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 18,
+      "title": "Une stratégie « emplois verts » pour les régions en difficulté",
+      "category": "climat",
+      "category_label": "Climat, environnement et agriculture",
+      "subcategory": "Emploi et transition",
+      "type": "Politique sectorielle",
+      "summary": "Volt veut une stratégie « emplois verts » pour les régions en difficulté : meilleure interconnexion et infrastructures, soutien aux reconversions professionnelles et travail avec les entreprises et les établissements d'enseignement des branches industrielles stratégiques.",
+      "details": "La mesure articule transition écologique, emploi et formation.",
+      "objectives": [
+        "Atteindre la neutralité climatique aussi vite et aussi équitablement que possible."
+      ],
+      "measures": [
+        "Stratégie emplois verts",
+        "Soutien aux reconversions",
+        "Partenariats entreprises-établissements d'enseignement"
+      ],
+      "keywords": [
+        "emplois verts",
+        "reconversion",
+        "régions",
+        "industrie",
+        "formation"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Atteindre la neutralité climatique le plus rapidement et le plus équitablement possible",
+      "position": 3,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Atteindre la neutralité climatique le plus rapidement et le plus équitablement possible » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 19,
+      "title": "Un réseau électrique européen intelligent",
+      "category": "energie",
+      "category_label": "Énergie et transports",
+      "subcategory": "Réseau électrique",
+      "type": "Investissement et financement",
+      "summary": "Le programme propose un réseau électrique européen intelligent, l'accélération des permis pour les énergies renouvelables, le soutien aux économies d'énergie et la possibilité pour les citoyens d'injecter de l'énergie dans le réseau.",
+      "details": "La mesure combine infrastructure, simplification administrative et participation des particuliers.",
+      "objectives": [
+        "Investir dans le réseau électrique et reporter le transport routier et aérien vers le rail."
+      ],
+      "measures": [
+        "Réseau électrique intelligent",
+        "Accélération des permis pour les renouvelables",
+        "Injection d'énergie par les citoyens"
+      ],
+      "keywords": [
+        "énergie",
+        "renouvelable",
+        "réseau électrique",
+        "permis"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Investir dans notre réseau électrique et passer du transport routier et aérien au transport ferroviaire",
+      "position": 1,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Investir dans notre réseau électrique et passer du transport routier et aérien au transport ferroviaire » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 20,
+      "title": "Sortie du charbon en 2030 et fin des nouveaux forages fossiles",
+      "category": "energie",
+      "category_label": "Énergie et transports",
+      "subcategory": "Énergies fossiles",
+      "type": "Objectif chiffré",
+      "summary": "Volt veut œuvrer pour la sortie du charbon d'ici 2030 et cesser de délivrer de nouveaux permis de forage pour des énergies fossiles.",
+      "details": "L'échéance de 2030 concerne le charbon.",
+      "objectives": [
+        "Investir dans le réseau électrique et reporter le transport routier et aérien vers le rail."
+      ],
+      "measures": [
+        "Sortie du charbon d'ici 2030",
+        "Fin des nouveaux permis de forage fossile"
+      ],
+      "keywords": [
+        "charbon",
+        "2030",
+        "forage",
+        "fossiles",
+        "énergie"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Investir dans notre réseau électrique et passer du transport routier et aérien au transport ferroviaire",
+      "position": 2,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Investir dans notre réseau électrique et passer du transport routier et aérien au transport ferroviaire » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 21,
+      "title": "Un réseau de trains à grande vitesse pour remplacer l'avion",
+      "category": "energie",
+      "category_label": "Énergie et transports",
+      "subcategory": "Transport ferroviaire",
+      "type": "Investissement et financement",
+      "summary": "Le programme prévoit d'établir un réseau de trains à grande vitesse, abordable et interconnecté, pour remplacer les voyages en avion à l'intérieur de l'Europe.",
+      "details": "La mesure cible les déplacements aériens intra-européens.",
+      "objectives": [
+        "Investir dans le réseau électrique et reporter le transport routier et aérien vers le rail."
+      ],
+      "measures": [
+        "Réseau de trains à grande vitesse interconnecté et abordable"
+      ],
+      "keywords": [
+        "train",
+        "ferroviaire",
+        "transports",
+        "mobilité",
+        "avion",
+        "grande vitesse"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Investir dans notre réseau électrique et passer du transport routier et aérien au transport ferroviaire",
+      "position": 3,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Investir dans notre réseau électrique et passer du transport routier et aérien au transport ferroviaire » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 22,
+      "title": "Bien-être animal : transport et élevage",
+      "category": "climat",
+      "category_label": "Climat, environnement et agriculture",
+      "subcategory": "Agriculture et bien-être animal",
+      "type": "Droit et législation",
+      "summary": "Volt propose d'interdire le transport d'animaux sur de longues distances vers des pays non membres de l'UE et d'interdire la mise en cages individuelles dans les élevages.",
+      "details": "Deux interdictions distinctes sont citées dans le programme.",
+      "objectives": [
+        "Protéger la planète en encourageant les pratiques durables."
+      ],
+      "measures": [
+        "Interdiction du transport longue distance vers les pays hors UE",
+        "Interdiction des cages individuelles en élevage"
+      ],
+      "keywords": [
+        "animaux",
+        "bien-être animal",
+        "élevage",
+        "agriculture",
+        "transport"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Protéger notre planète en encourageant les pratiques durables",
+      "position": 1,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Protéger notre planète en encourageant les pratiques durables » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 23,
+      "title": "Réorienter les aides agricoles vers l'agriculture régénératrice",
+      "category": "climat",
+      "category_label": "Climat, environnement et agriculture",
+      "subcategory": "Agriculture et bien-être animal",
+      "type": "Mesure fiscale et budgétaire",
+      "summary": "Le programme prévoit d'arrêter progressivement les subventions aux pratiques agricoles préjudiciables à l'environnement et d'allouer ces fonds aux pratiques agricoles régénératrices.",
+      "details": "La mesure déplace des financements agricoles existants vers d'autres pratiques.",
+      "objectives": [
+        "Protéger la planète en encourageant les pratiques durables."
+      ],
+      "measures": [
+        "Arrêt progressif des subventions préjudiciables",
+        "Fonds alloués à l'agriculture régénératrice"
+      ],
+      "keywords": [
+        "agriculture",
+        "subventions",
+        "régénératrice",
+        "environnement",
+        "alimentation"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Protéger notre planète en encourageant les pratiques durables",
+      "position": 2,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Protéger notre planète en encourageant les pratiques durables » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 24,
+      "title": "Restaurer la biodiversité",
+      "category": "climat",
+      "category_label": "Climat, environnement et agriculture",
+      "subcategory": "Biodiversité",
+      "type": "Objectif chiffré",
+      "summary": "Volt veut restaurer la biodiversité en fixant des objectifs contraignants aux niveaux européen et national, en soutenant des projets de restauration de la nature, des sols et de l'eau, et en protégeant les insectes pollinisateurs autochtones.",
+      "details": "Le programme ne chiffre pas ces objectifs contraignants dans le passage étudié.",
+      "objectives": [
+        "Protéger la planète en encourageant les pratiques durables."
+      ],
+      "measures": [
+        "Objectifs contraignants européens et nationaux",
+        "Projets de restauration (nature, sols, eau)",
+        "Protection des pollinisateurs autochtones"
+      ],
+      "keywords": [
+        "biodiversité",
+        "nature",
+        "eau",
+        "sols",
+        "pollinisateurs",
+        "environnement"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Protéger notre planète en encourageant les pratiques durables",
+      "position": 3,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Protéger notre planète en encourageant les pratiques durables » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 25,
+      "title": "Un guichet unique pour start-ups et PME, et l'anglais langue officielle supplémentaire",
+      "category": "numerique",
+      "category_label": "Numérique et intelligence artificielle",
+      "subcategory": "Administration numérique",
+      "type": "Politique sectorielle",
+      "summary": "Le programme propose un guichet unique pour aider les start-ups et PME dans leurs démarches administratives et de faire de l'anglais une langue officielle supplémentaire dans toute l'Europe.",
+      "details": "Deux mesures figurent dans la même puce : simplification pour les entreprises et statut de la langue anglaise.",
+      "objectives": [
+        "Démocratiser l'usage du numérique."
+      ],
+      "measures": [
+        "Guichet unique start-ups et PME",
+        "Anglais langue officielle supplémentaire"
+      ],
+      "keywords": [
+        "start-up",
+        "PME",
+        "guichet unique",
+        "anglais",
+        "langue"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Démocratiser l'usage du numérique",
+      "position": 1,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Démocratiser l'usage du numérique » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 26,
+      "title": "Services publics interopérables, open data et open source",
+      "category": "numerique",
+      "category_label": "Numérique et intelligence artificielle",
+      "subcategory": "Services publics numériques",
+      "type": "Politique sectorielle",
+      "summary": "Volt veut rendre tous les services publics européens interopérables et instaurer une démarche d'open data et d'open source pour tous les achats publics de logiciels et de données.",
+      "details": "L'open source concerne les achats publics de logiciels et de données.",
+      "objectives": [
+        "Démocratiser l'usage du numérique."
+      ],
+      "measures": [
+        "Interopérabilité des services publics européens",
+        "Open data et open source dans les achats publics"
+      ],
+      "keywords": [
+        "open source",
+        "open data",
+        "logiciels",
+        "numérique",
+        "interopérabilité"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Démocratiser l'usage du numérique",
+      "position": 2,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Démocratiser l'usage du numérique » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 27,
+      "title": "Un portefeuille européen d'identité numérique",
+      "category": "numerique",
+      "category_label": "Numérique et intelligence artificielle",
+      "subcategory": "Identité numérique",
+      "type": "Politique sectorielle",
+      "summary": "Le programme prévoit de déployer un portefeuille européen d'identité numérique avec un contrôle par l'utilisateur, un stockage décentralisé des données et une protection robuste des données.",
+      "details": "Trois caractéristiques sont mises en avant : contrôle utilisateur, stockage décentralisé, protection des données.",
+      "objectives": [
+        "Démocratiser l'usage du numérique."
+      ],
+      "measures": [
+        "Portefeuille européen d'identité numérique",
+        "Stockage décentralisé",
+        "Protection robuste des données"
+      ],
+      "keywords": [
+        "identité numérique",
+        "données",
+        "vie privée",
+        "numérique"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Démocratiser l'usage du numérique",
+      "position": 3,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Démocratiser l'usage du numérique » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 28,
+      "title": "Tripler le financement du programme Horizon",
+      "category": "innovation",
+      "category_label": "Innovation et compétitivité",
+      "subcategory": "Recherche",
+      "type": "Objectif chiffré",
+      "summary": "Volt veut viser l'excellence de la recherche européenne en triplant le financement du programme Horizon pour le porter à 300 milliards d'euros et en simplifiant l'accès aux financements pour les start-ups et petites entreprises.",
+      "details": "Le montant de 300 milliards d'euros correspond au triplement mentionné dans le programme.",
+      "objectives": [
+        "Faire de l'Europe un acteur de premier plan de l'innovation et de la compétitivité."
+      ],
+      "measures": [
+        "Programme Horizon porté à 300 milliards d'euros",
+        "Accès simplifié aux financements"
+      ],
+      "keywords": [
+        "recherche",
+        "horizon",
+        "300 milliards",
+        "innovation",
+        "start-up"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Faire de l'Europe un acteur de premier plan en matière d'innovation et de compétitivité",
+      "position": 1,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Faire de l'Europe un acteur de premier plan en matière d'innovation et de compétitivité » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 29,
+      "title": "Investir dans les start-ups : 5 % des nouveaux fonds",
+      "category": "innovation",
+      "category_label": "Innovation et compétitivité",
+      "subcategory": "Financement des start-ups",
+      "type": "Objectif chiffré",
+      "summary": "Le programme prévoit d'exiger des grands investisseurs qu'ils placent au moins 5 % de leurs nouveaux fonds dans des start-ups, et de permettre à la Banque européenne d'investissement de garantir des prêts pour un montant global de 100 millions d'euros pour des projets d'infrastructure portés par ces start-ups.",
+      "details": "Deux chiffres figurent dans cette mesure : 5 % des nouveaux fonds et 100 millions d'euros de prêts garantis.",
+      "objectives": [
+        "Faire de l'Europe un acteur de premier plan de l'innovation et de la compétitivité."
+      ],
+      "measures": [
+        "Au moins 5 % des nouveaux fonds en start-ups",
+        "Garanties de prêts de la BEI (100 millions d'euros)"
+      ],
+      "keywords": [
+        "start-up",
+        "investisseurs",
+        "BEI",
+        "financement",
+        "5 %"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Faire de l'Europe un acteur de premier plan en matière d'innovation et de compétitivité",
+      "position": 2,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Faire de l'Europe un acteur de premier plan en matière d'innovation et de compétitivité » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 30,
+      "title": "Européaniser les aides d'État dans les chaînes de valeur stratégiques",
+      "category": "innovation",
+      "category_label": "Innovation et compétitivité",
+      "subcategory": "Aides d'État",
+      "type": "Mesure fiscale et budgétaire",
+      "summary": "Volt propose d'européaniser les aides d'État pour investir dans les chaînes de valeur d'importance stratégique, afin de sauvegarder le marché intérieur tout en préservant une concurrence saine entre les États membres.",
+      "details": "La mesure cherche à concilier investissement stratégique et concurrence entre États membres.",
+      "objectives": [
+        "Faire de l'Europe un acteur de premier plan de l'innovation et de la compétitivité."
+      ],
+      "measures": [
+        "Aides d'État européanisées",
+        "Investissement dans les chaînes de valeur stratégiques"
+      ],
+      "keywords": [
+        "aides d'État",
+        "industrie",
+        "compétitivité",
+        "marché intérieur"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Faire de l'Europe un acteur de premier plan en matière d'innovation et de compétitivité",
+      "position": 3,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Faire de l'Europe un acteur de premier plan en matière d'innovation et de compétitivité » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 31,
+      "title": "Télétravail transfrontalier et protection des travailleurs des plateformes",
+      "category": "travail",
+      "category_label": "Travail et mobilité des talents",
+      "subcategory": "Conditions de travail",
+      "type": "Droit et législation",
+      "summary": "Le programme propose de permettre aux télétravailleurs de travailler en dehors de leurs frontières et d'accorder aux travailleuses et travailleurs de l'économie des petits boulots et aux indépendants les mêmes protections qu'aux salariés sous contrat de travail.",
+      "details": "Deux mesures figurent dans la même puce : télétravail transfrontalier et protections sociales.",
+      "objectives": [
+        "Faciliter la venue de personnes du monde entier pour travailler et créer de la richesse en Europe."
+      ],
+      "measures": [
+        "Télétravail au-delà des frontières",
+        "Mêmes protections pour indépendants et travail de plateforme"
+      ],
+      "keywords": [
+        "télétravail",
+        "indépendants",
+        "travail",
+        "plateformes",
+        "protection"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Faciliter la venue de personnes provenant de partout dans le monde pour travailler et créer de la richesse en Europe",
+      "position": 1,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Faciliter la venue de personnes provenant de partout dans le monde pour travailler et créer de la richesse en Europe » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 32,
+      "title": "Reconnaissance des qualifications et regroupement familial en trois mois",
+      "category": "travail",
+      "category_label": "Travail et mobilité des talents",
+      "subcategory": "Qualifications et familles",
+      "type": "Objectif chiffré",
+      "summary": "Volt veut garantir la reconnaissance des qualifications et des compétences dans toute l'UE et améliorer la capacité des administrations pour que les familles de travailleuses et travailleurs puissent les rejoindre dans un délai de trois mois.",
+      "details": "Le délai de trois mois concerne l'arrivée des familles des travailleurs.",
+      "objectives": [
+        "Faciliter la venue de personnes du monde entier pour travailler et créer de la richesse en Europe."
+      ],
+      "measures": [
+        "Reconnaissance des qualifications dans l'UE",
+        "Familles rejointes en trois mois"
+      ],
+      "keywords": [
+        "qualifications",
+        "famille",
+        "trois mois",
+        "travailleurs",
+        "migration"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Faciliter la venue de personnes provenant de partout dans le monde pour travailler et créer de la richesse en Europe",
+      "position": 2,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Faciliter la venue de personnes provenant de partout dans le monde pour travailler et créer de la richesse en Europe » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 33,
+      "title": "Un code européen des migrations",
+      "category": "travail",
+      "category_label": "Travail et mobilité des talents",
+      "subcategory": "Migration de travail",
+      "type": "Droit et législation",
+      "summary": "Le programme prévoit d'établir un code européen des migrations proposant des voies légales rapides pour attirer des talents internationaux de tous niveaux de salaire et de compétences.",
+      "details": "La mesure vise des voies légales de migration de travail.",
+      "objectives": [
+        "Faciliter la venue de personnes du monde entier pour travailler et créer de la richesse en Europe."
+      ],
+      "measures": [
+        "Code européen des migrations",
+        "Voies légales rapides"
+      ],
+      "keywords": [
+        "migration",
+        "talents",
+        "voies légales",
+        "code"
+      ],
+      "part": "Une économie neutre en carbone favorisant l'innovation",
+      "section": "Faciliter la venue de personnes provenant de partout dans le monde pour travailler et créer de la richesse en Europe",
+      "position": 3,
+      "section_ref": "Partie « Une économie neutre en carbone favorisant l'innovation » › section « Faciliter la venue de personnes provenant de partout dans le monde pour travailler et créer de la richesse en Europe » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 34,
+      "title": "Un budget accru pour Erasmus+",
+      "category": "education",
+      "category_label": "Éducation et jeunesse",
+      "subcategory": "Mobilité",
+      "type": "Investissement et financement",
+      "summary": "Volt propose d'augmenter le budget des programmes européens d'échanges de mobilité afin de rendre ERASMUS+ plus accessible et inclusif pour les élèves, étudiants, enseignants et apprentis.",
+      "details": "La mesure vise l'accessibilité d'un programme existant.",
+      "objectives": [
+        "Offrir à toutes et tous une éducation de haute qualité tournée vers l'avenir."
+      ],
+      "measures": [
+        "Hausse du budget des programmes de mobilité",
+        "Erasmus+ plus accessible et inclusif"
+      ],
+      "keywords": [
+        "erasmus",
+        "éducation",
+        "étudiants",
+        "mobilité",
+        "apprentis"
+      ],
+      "part": "Une société plus juste",
+      "section": "Fournir à toutes et tous une éducation de haute qualité, tournée vers l'avenir",
+      "position": 1,
+      "section_ref": "Partie « Une société plus juste » › section « Fournir à toutes et tous une éducation de haute qualité, tournée vers l'avenir » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 35,
+      "title": "Garde d'enfants gratuite et formation tout au long de la vie",
+      "category": "education",
+      "category_label": "Éducation et jeunesse",
+      "subcategory": "Petite enfance et formation",
+      "type": "Droit et législation",
+      "summary": "Le programme prévoit de garantir par la loi le droit à des garderies gratuites et de haute qualité ainsi que le droit à une éducation abordable tout au long de la vie, et de renforcer les compétences adaptées à une économie verte et numérisée.",
+      "details": "Deux droits sont cités, accompagnés d'un objectif de compétences.",
+      "objectives": [
+        "Offrir à toutes et tous une éducation de haute qualité tournée vers l'avenir."
+      ],
+      "measures": [
+        "Droit légal à des garderies gratuites de haute qualité",
+        "Droit à une éducation abordable tout au long de la vie",
+        "Compétences pour une économie verte et numérique"
+      ],
+      "keywords": [
+        "garderie",
+        "éducation",
+        "formation",
+        "enfants",
+        "compétences"
+      ],
+      "part": "Une société plus juste",
+      "section": "Fournir à toutes et tous une éducation de haute qualité, tournée vers l'avenir",
+      "position": 2,
+      "section_ref": "Partie « Une société plus juste » › section « Fournir à toutes et tous une éducation de haute qualité, tournée vers l'avenir » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 36,
+      "title": "Santé mentale des jeunes et usage sain des réseaux sociaux",
+      "category": "education",
+      "category_label": "Éducation et jeunesse",
+      "subcategory": "Santé mentale",
+      "type": "Investissement et financement",
+      "summary": "Volt veut s'attaquer aux problèmes de santé mentale chez les jeunes en finançant des initiatives de santé mentale à l'école et une éducation à un usage sain des réseaux sociaux.",
+      "details": "C'est la seule mesure de santé identifiée dans le document étudié.",
+      "objectives": [
+        "Offrir à toutes et tous une éducation de haute qualité tournée vers l'avenir."
+      ],
+      "measures": [
+        "Financement d'initiatives de santé mentale à l'école",
+        "Éducation à l'usage sain des réseaux sociaux"
+      ],
+      "keywords": [
+        "santé mentale",
+        "jeunes",
+        "école",
+        "réseaux sociaux",
+        "santé"
+      ],
+      "part": "Une société plus juste",
+      "section": "Fournir à toutes et tous une éducation de haute qualité, tournée vers l'avenir",
+      "position": 3,
+      "section_ref": "Partie « Une société plus juste » › section « Fournir à toutes et tous une éducation de haute qualité, tournée vers l'avenir » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 37,
+      "title": "Une approche de genre dans les politiques de l'UE",
+      "category": "droits",
+      "category_label": "Droits et lutte contre les discriminations",
+      "subcategory": "Égalité",
+      "type": "Droit et législation",
+      "summary": "Le programme demande que toutes les institutions de l'Union européenne prennent en compte les aspects liés au genre dans l'élaboration de leurs politiques publiques.",
+      "details": "La mesure s'applique à toutes les institutions de l'Union.",
+      "objectives": [
+        "Combattre les discriminations afin que chacun jouisse des mêmes droits et opportunités."
+      ],
+      "measures": [
+        "Prise en compte du genre dans toutes les politiques publiques de l'UE"
+      ],
+      "keywords": [
+        "genre",
+        "égalité",
+        "institutions",
+        "discriminations"
+      ],
+      "part": "Une société plus juste",
+      "section": "Combattre les discriminations pour que tout le monde puisse jouir des mêmes droits et opportunités",
+      "position": 1,
+      "section_ref": "Partie « Une société plus juste » › section « Combattre les discriminations pour que tout le monde puisse jouir des mêmes droits et opportunités » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 38,
+      "title": "Droits reproductifs, mariage pour toutes et tous, reconnaissance légale du genre",
+      "category": "droits",
+      "category_label": "Droits et lutte contre les discriminations",
+      "subcategory": "Droits individuels",
+      "type": "Droit et législation",
+      "summary": "Volt propose d'inscrire dans la loi le droit à l'avortement, à la contraception et à une éducation générale aux droits reproductifs et à la sexualité, ainsi que le droit au mariage pour toutes et tous et le droit à la reconnaissance légale du genre.",
+      "details": "Plusieurs droits sont regroupés dans une même puce du programme.",
+      "objectives": [
+        "Combattre les discriminations afin que chacun jouisse des mêmes droits et opportunités."
+      ],
+      "measures": [
+        "Droit à l'avortement et à la contraception",
+        "Éducation aux droits reproductifs et à la sexualité",
+        "Mariage pour toutes et tous",
+        "Reconnaissance légale du genre"
+      ],
+      "keywords": [
+        "avortement",
+        "contraception",
+        "mariage",
+        "genre",
+        "droits"
+      ],
+      "part": "Une société plus juste",
+      "section": "Combattre les discriminations pour que tout le monde puisse jouir des mêmes droits et opportunités",
+      "position": 2,
+      "section_ref": "Partie « Une société plus juste » › section « Combattre les discriminations pour que tout le monde puisse jouir des mêmes droits et opportunités » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 39,
+      "title": "Une Agence européenne du Handicap",
+      "category": "droits",
+      "category_label": "Droits et lutte contre les discriminations",
+      "subcategory": "Handicap",
+      "type": "Création d'une institution",
+      "summary": "Le programme prévoit de créer une Agence européenne du Handicap pour assurer la mise en œuvre complète de la Convention des Nations Unies relative aux droits des personnes handicapées (CNUDPH).",
+      "details": "Volt France a par ailleurs publié un document dédié au handicap pour les élections européennes ; il n'est pas intégré à cette version de l'application.",
+      "objectives": [
+        "Combattre les discriminations afin que chacun jouisse des mêmes droits et opportunités."
+      ],
+      "measures": [
+        "Agence européenne du Handicap",
+        "Mise en œuvre de la CNUDPH"
+      ],
+      "keywords": [
+        "handicap",
+        "agence",
+        "CNUDPH",
+        "droits"
+      ],
+      "part": "Une société plus juste",
+      "section": "Combattre les discriminations pour que tout le monde puisse jouir des mêmes droits et opportunités",
+      "position": 3,
+      "section_ref": "Partie « Une société plus juste » › section « Combattre les discriminations pour que tout le monde puisse jouir des mêmes droits et opportunités » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 40,
+      "title": "Un revenu de base européen",
+      "category": "social",
+      "category_label": "Niveau de vie et services publics",
+      "subcategory": "Revenu",
+      "type": "Investissement et financement",
+      "summary": "Volt propose de mettre en place un revenu de base européen, dont le montant varierait selon les régions, couvrant les dépenses courantes de base tout en incitant à la création d'emplois bien rémunérés.",
+      "details": "Le montant n'est pas chiffré dans le document étudié.",
+      "objectives": [
+        "Promouvoir un bon niveau de vie par des services publics essentiels et la solidarité sociale."
+      ],
+      "measures": [
+        "Revenu de base européen",
+        "Montant différencié selon les régions"
+      ],
+      "keywords": [
+        "revenu de base",
+        "pauvreté",
+        "emploi",
+        "social"
+      ],
+      "part": "Une société plus juste",
+      "section": "Promouvoir un bon niveau de vie en fournissant des services publics essentiels vitaux et en encourageant la solidarité sociale",
+      "position": 1,
+      "section_ref": "Partie « Une société plus juste » › section « Promouvoir un bon niveau de vie en fournissant des services publics essentiels vitaux et en encourageant la solidarité sociale » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 41,
+      "title": "Financement européen direct du logement social",
+      "category": "social",
+      "category_label": "Niveau de vie et services publics",
+      "subcategory": "Logement",
+      "type": "Investissement et financement",
+      "summary": "Le programme prévoit de permettre à l'Union européenne de financer directement des projets de logement social dans les villes qui en ont le plus besoin.",
+      "details": "Le financement serait versé directement aux projets, sans passer par les États selon la formulation du programme.",
+      "objectives": [
+        "Promouvoir un bon niveau de vie par des services publics essentiels et la solidarité sociale."
+      ],
+      "measures": [
+        "Financement direct de projets de logements sociaux"
+      ],
+      "keywords": [
+        "logement",
+        "logement social",
+        "villes"
+      ],
+      "part": "Une société plus juste",
+      "section": "Promouvoir un bon niveau de vie en fournissant des services publics essentiels vitaux et en encourageant la solidarité sociale",
+      "position": 2,
+      "section_ref": "Partie « Une société plus juste » › section « Promouvoir un bon niveau de vie en fournissant des services publics essentiels vitaux et en encourageant la solidarité sociale » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 42,
+      "title": "Financements locaux directs pour intégrer les nouveaux arrivants",
+      "category": "asile",
+      "category_label": "Asile et accueil",
+      "subcategory": "Intégration locale",
+      "type": "Investissement et financement",
+      "summary": "Volt veut mettre en place des financements directs au niveau local pour que les communautés puissent intégrer les nouveaux arrivants selon leurs besoins.",
+      "details": "Cette mesure figure dans la section sur le niveau de vie et les services publics.",
+      "objectives": [
+        "Promouvoir un bon niveau de vie par des services publics essentiels et la solidarité sociale."
+      ],
+      "measures": [
+        "Financements directs au niveau local"
+      ],
+      "keywords": [
+        "intégration",
+        "communautés",
+        "nouveaux arrivants",
+        "local"
+      ],
+      "part": "Une société plus juste",
+      "section": "Promouvoir un bon niveau de vie en fournissant des services publics essentiels vitaux et en encourageant la solidarité sociale",
+      "position": 3,
+      "section_ref": "Partie « Une société plus juste » › section « Promouvoir un bon niveau de vie en fournissant des services publics essentiels vitaux et en encourageant la solidarité sociale » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 43,
+      "title": "Des corridors humanitaires",
+      "category": "asile",
+      "category_label": "Asile et accueil",
+      "subcategory": "Voies sûres",
+      "type": "Politique sectorielle",
+      "summary": "Le programme propose de créer des corridors humanitaires pour permettre un passage sûr aux personnes vulnérables afin d'éviter des pertes massives de vies humaines en Méditerranée et dans l'Atlantique.",
+      "details": "Les zones citées dans le programme sont la Méditerranée et l'Atlantique.",
+      "objectives": [
+        "Rendre le système d'asile juste et humain."
+      ],
+      "measures": [
+        "Corridors humanitaires"
+      ],
+      "keywords": [
+        "asile",
+        "réfugiés",
+        "méditerranée",
+        "corridors humanitaires",
+        "migration"
+      ],
+      "part": "Une société plus juste",
+      "section": "Rendre le système d'asile juste et humain",
+      "position": 1,
+      "section_ref": "Partie « Une société plus juste » › section « Rendre le système d'asile juste et humain » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 44,
+      "title": "Relocalisation rapide et équitable des demandeurs d'asile",
+      "category": "asile",
+      "category_label": "Asile et accueil",
+      "subcategory": "Répartition",
+      "type": "Politique sectorielle",
+      "summary": "Volt veut relocaliser rapidement et équitablement les demandeurs d'asile depuis les frontières de l'Union, en combinant des mesures volontaires au niveau régional et des mesures obligatoires au niveau national.",
+      "details": "Le programme combine deux niveaux : volontaire (régional) et obligatoire (national).",
+      "objectives": [
+        "Rendre le système d'asile juste et humain."
+      ],
+      "measures": [
+        "Relocalisation depuis les frontières",
+        "Mesures volontaires régionales et obligatoires nationales"
+      ],
+      "keywords": [
+        "asile",
+        "relocalisation",
+        "frontières",
+        "migration"
+      ],
+      "part": "Une société plus juste",
+      "section": "Rendre le système d'asile juste et humain",
+      "position": 2,
+      "section_ref": "Partie « Une société plus juste » › section « Rendre le système d'asile juste et humain » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 45,
+      "title": "Demandes d'asile traitées en trois mois",
+      "category": "asile",
+      "category_label": "Asile et accueil",
+      "subcategory": "Procédure",
+      "type": "Objectif chiffré",
+      "summary": "Le programme prévoit d'exiger par la loi que les demandes d'asile soient traitées dans un délai de trois mois, tout en fournissant aux demandeurs un soutien social, juridique et psychologique.",
+      "details": "Le délai de trois mois est inscrit explicitement dans le programme.",
+      "objectives": [
+        "Rendre le système d'asile juste et humain."
+      ],
+      "measures": [
+        "Traitement des demandes en trois mois",
+        "Soutien social, juridique et psychologique"
+      ],
+      "keywords": [
+        "asile",
+        "trois mois",
+        "délai",
+        "soutien"
+      ],
+      "part": "Une société plus juste",
+      "section": "Rendre le système d'asile juste et humain",
+      "position": 3,
+      "section_ref": "Partie « Une société plus juste » › section « Rendre le système d'asile juste et humain » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 46,
+      "title": "Un service européen de streaming gratuit",
+      "category": "numerique",
+      "category_label": "Numérique et intelligence artificielle",
+      "subcategory": "Médias",
+      "type": "Politique sectorielle",
+      "summary": "Volt propose un service européen de streaming offrant aux citoyennes et citoyens un accès gratuit à tous les médias produits avec de l'argent public dans l'Union européenne.",
+      "details": "La mesure concerne les médias financés par de l'argent public.",
+      "objectives": [
+        "Protéger les droits des personnes dans un monde numérique et mettre le numérique au service de toutes et tous."
+      ],
+      "measures": [
+        "Service européen de streaming gratuit"
+      ],
+      "keywords": [
+        "streaming",
+        "médias",
+        "culture",
+        "numérique"
+      ],
+      "part": "Une société plus juste",
+      "section": "Protéger les droits des personnes dans un monde numérique et mettre la digitalisation au service de toutes les Européennes et de tous les Européens",
+      "position": 1,
+      "section_ref": "Partie « Une société plus juste » › section « Protéger les droits des personnes dans un monde numérique et mettre la digitalisation au service de toutes les Européennes et de tous les Européens » › mesure n°1 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 47,
+      "title": "Rendre la Déclaration sur les droits numériques juridiquement contraignante",
+      "category": "numerique",
+      "category_label": "Numérique et intelligence artificielle",
+      "subcategory": "Droits numériques",
+      "type": "Droit et législation",
+      "summary": "Le programme prévoit de transformer la Déclaration européenne sur les droits et principes numériques en un instrument légal et contraignant.",
+      "details": "La Déclaration existe déjà ; la mesure vise à lui donner une valeur juridique contraignante.",
+      "objectives": [
+        "Protéger les droits des personnes dans un monde numérique et mettre le numérique au service de toutes et tous."
+      ],
+      "measures": [
+        "Déclaration sur les droits et principes numériques rendue contraignante"
+      ],
+      "keywords": [
+        "droits numériques",
+        "déclaration",
+        "numérique",
+        "principes"
+      ],
+      "part": "Une société plus juste",
+      "section": "Protéger les droits des personnes dans un monde numérique et mettre la digitalisation au service de toutes les Européennes et de tous les Européens",
+      "position": 2,
+      "section_ref": "Partie « Une société plus juste » › section « Protéger les droits des personnes dans un monde numérique et mettre la digitalisation au service de toutes les Européennes et de tous les Européens » › mesure n°2 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    },
+    {
+      "id": 48,
+      "title": "Taxer le numérique, neutralité du Net et encadrement de l'IA non éthique",
+      "category": "numerique",
+      "category_label": "Numérique et intelligence artificielle",
+      "subcategory": "Fiscalité et IA",
+      "type": "Droit et législation",
+      "summary": "Volt veut taxer les revenus issus des technologies numériques là où ils sont générés, s'opposer à toute législation menaçant la neutralité du Net et prendre des mesures contre l'utilisation non éthique de l'intelligence artificielle.",
+      "details": "Le passage étudié ne détaille pas les mesures contre l'usage non éthique de l'IA.",
+      "objectives": [
+        "Protéger les droits des personnes dans un monde numérique et mettre le numérique au service de toutes et tous."
+      ],
+      "measures": [
+        "Taxation des revenus numériques au lieu de génération",
+        "Défense de la neutralité du Net",
+        "Mesures contre l'usage non éthique de l'IA"
+      ],
+      "keywords": [
+        "intelligence artificielle",
+        "IA",
+        "neutralité du Net",
+        "taxe",
+        "numérique",
+        "éthique"
+      ],
+      "part": "Une société plus juste",
+      "section": "Protéger les droits des personnes dans un monde numérique et mettre la digitalisation au service de toutes les Européennes et de tous les Européens",
+      "position": 3,
+      "section_ref": "Partie « Une société plus juste » › section « Protéger les droits des personnes dans un monde numérique et mettre la digitalisation au service de toutes les Européennes et de tous les Européens » › mesure n°3 de la section",
+      "source_document": "Programme électoral – Élections européennes – « L'avenir : Made in Europe » (Volt Europa)",
+      "source_url": "https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf",
+      "page": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}Accueil{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="container hero-inner">
+    <p class="eyebrow">Comprendre le programme, explorer les idées.</p>
+    <h1>Découvrez le programme de Volt France</h1>
+    <p class="lead">Parcourez les {{ total }} propositions du programme électoral par thématique, cherchez un mot-clé, testez vos connaissances avec le quiz ou posez une question à l'assistant. Chaque information renvoie à sa source officielle.</p>
+    <div class="actions">
+      <a class="btn btn-primary" href="{{ url_for('main.programme') }}">Explorer le programme</a>
+      <a class="btn btn-light" href="{{ url_for('main.categories') }}">Découvrir les thématiques</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Les grandes thématiques</h2>
+    <p class="muted">Classement établi à partir des sections du document officiel.</p>
+    <div class="grid cards">
+      {% for c in categories %}
+      <a class="card card-link" href="{{ url_for('main.category', slug=c.slug) }}">
+        <span class="icon" aria-hidden="true">{{ c.icon }}</span>
+        <h3>{{ c.label }}</h3>
+        <p>{{ c.description }}</p>
+        <span class="card-meta">{{ c.count }} proposition{{ 's' if c.count > 1 else '' }} →</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <h2>Comment utiliser la plateforme</h2>
+    <div class="grid steps">
+      <div class="step"><span class="step-n">1</span><h3>Parcourir</h3><p>Ouvrez une thématique pour lire les propositions, chacune avec son résumé, ses mesures et sa référence.</p></div>
+      <div class="step"><span class="step-n">2</span><h3>Rechercher</h3><p>Utilisez <a href="{{ url_for('main.explorer') }}">Explorer</a> pour chercher un mot-clé et filtrer par thématique ou type de proposition.</p></div>
+      <div class="step"><span class="step-n">3</span><h3>Sauvegarder</h3><p>Cliquez sur ♥ pour garder une proposition dans vos <a href="{{ url_for('main.favoris') }}">favoris</a>, sans compte.</p></div>
+      <div class="step"><span class="step-n">4</span><h3>Tester et questionner</h3><p>Faites le <a href="{{ url_for('main.quiz') }}">quiz</a> ou interrogez l'<a href="{{ url_for('main.assistant') }}">assistant</a>, qui cite ses sources.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Sources officielles</h2>
+    <div class="notice">
+      <p>Les propositions proviennent du <strong>programme électoral des élections européennes</strong> publié sur
+        <a href="https://voltfrance.org/storage/pdf/volt-ecp_fr.pdf" target="_blank" rel="noopener">voltfrance.org</a>
+        (version française du programme de Volt Europa). Ce n'est pas un programme national français : les thèmes absents de ce document (par exemple la justice ou la sécurité intérieure) ne sont volontairement pas couverts.</p>
+      <p><a href="{{ url_for('main.about') }}">Voir la méthode et les limites →</a></p>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{{ category.label }}{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <p class="crumbs"><a href="{{ url_for('main.categories') }}">Thématiques</a> › {{ category.label }}</p>
+    <h1><span aria-hidden="true">{{ category.icon }}</span> {{ category.label }}</h1>
+    <p class="lead">{{ category.description }}</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="grid cards">
+      {% for p in propositions %}
+      <article class="card">
+        <div class="card-top">
+          <span class="tag">{{ p.subcategory }}</span>
+          <button class="fav-btn" data-fav-id="{{ p.id }}" aria-pressed="false" aria-label="Ajouter aux favoris" title="Ajouter aux favoris">♥</button>
+        </div>
+        <h3><a href="{{ url_for('main.proposition', prop_id=p.id) }}">{{ p.title }}</a></h3>
+        <p>{{ p.summary }}</p>
+        <span class="tag tag-soft">{{ p.type }}</span>
+        <a class="card-meta" href="{{ url_for('main.proposition', prop_id=p.id) }}">Voir la fiche →</a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}

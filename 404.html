@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ 'Erreur' if error500 else 'Page introuvable' }}{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <h1>{{ "Une erreur est survenue" if error500 else "Page introuvable" }}</h1>
+    <p class="lead">{{ "Le serveur a rencontré un problème. Réessayez dans un instant." if error500 else "Cette page n'existe pas ou a été déplacée." }}</p>
+    <p><a class="btn btn-primary" href="{{ url_for('main.index') }}">Retour à l'accueil</a>
+       <a class="btn btn-light" href="{{ url_for('main.categories') }}">Voir les thématiques</a></p>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Programme{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <h1>Le programme</h1>
+    <p class="lead">Structure du document officiel : {{ total }} propositions réparties en {{ parts|length }} parties.</p>
+    {% if source %}
+    <p class="notice">Source : {{ source.source_document }} —
+      <a href="{{ source.source_url }}" target="_blank" rel="noopener">consulter le PDF officiel</a>.</p>
+    {% endif %}
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    {% for part in parts %}
+    <div class="part">
+      <h2>{{ part.title }}</h2>
+      {% for sec in part.sections %}
+      <details class="section-block" open>
+        <summary>{{ sec.title }}</summary>
+        <ul class="plain prop-list">
+          {% for p in sec.propositions %}
+          <li><a href="{{ url_for('main.proposition', prop_id=p.id) }}">{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}Quiz{% endblock %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    <h1>Quiz pédagogique</h1>
+    <p class="lead">Vérifiez votre compréhension du programme. Chaque réponse est expliquée avec une référence à la proposition concernée. Le quiz ne cherche pas à orienter vos opinions.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container narrow">
+    <div id="quiz-start" class="block">
+      <h2>Choisissez un niveau</h2>
+      <div class="level-picker" id="level-picker"></div>
+      <p id="quiz-error" class="notice notice-error" hidden>Impossible de charger le quiz.</p>
+    </div>
+
+    <div id="quiz-play" class="block" hidden>
+      <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="progress">
+        <div class="progress-bar" id="progress-bar"></div>
+      </div>
+      <p class="muted small" id="progress-text"></p>
+      <h2 id="question-text"></h2>
+      <div id="choices" class="choices"></div>
+      <div id="feedback" class="feedback" hidden aria-live="polite"></div>
+      <p><button class="btn btn-primary" id="next-btn" hidden>Question suivante</button></p>
+    </div>
+
+    <div id="quiz-end" class="block" hidden>
+      <h2>Quiz terminé</h2>
+      <p class="score" id="final-score"></p>
+      <p id="final-detail" class="muted"></p>
+      <p><button class="btn btn-primary" id="restart-btn">Recommencer</button>
+         <a class="btn btn-light" href="{{ url_for('main.categories') }}">Revoir les thématiques</a></p>
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/quiz.js') }}"></script>{% endblock %}
